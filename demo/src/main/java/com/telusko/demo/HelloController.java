@@ -20,4 +20,6 @@ public class HelloController {
 		return a;
 	}
 	
+	/* TODO Add new method */
+	
 }
