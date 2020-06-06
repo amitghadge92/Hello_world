@@ -1,5 +1,9 @@
 package com.telusko.demo.model;
 
+/**
+ * @author amit
+ *
+ */
 public class Alien {
 
 	private int id;
