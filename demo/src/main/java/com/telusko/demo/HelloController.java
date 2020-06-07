@@ -7,7 +7,7 @@ import com.telusko.demo.model.Alien;
 
 /**
  * @author amit
- *
+ *This is controller class for accepting http request
  */
 @RestController
 public class HelloController {

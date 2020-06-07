@@ -1,6 +1,7 @@
 package com.telusko.demo.model;
 
 /**
+ * This is Alien Bean to hold data. POJO.
  * @author amit
  *
  */
